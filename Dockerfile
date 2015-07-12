@@ -1,4 +1,4 @@
-FROM mikefaille/centos-base:lastest
+FROM mikefaille/centos-base:latest
 MAINTAINER michael@faille.io <michael@faille.io>
 
 # Base soft
